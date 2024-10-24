@@ -1,4 +1,6 @@
 # Electron template with React, TypeScript and Vite
+Course video: https://www.youtube.com/watch?v=fP-371MN0Ck&t=1034s
+
 This template is the base for a good Electron project
 
 just run "npm run dev" for everything to start
