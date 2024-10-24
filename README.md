@@ -1,3 +1,16 @@
+# Electron template with React, TypeScript and Vite
+This template is the base for a good Electron project
+
+just run "npm run dev" for everything to start
+
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
